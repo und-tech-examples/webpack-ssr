@@ -22,9 +22,6 @@
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
-    "express": "^4.16.4",
-    "memory-fs": "^0.4.1",
-    "require-from-string": "^2.0.2",
-    "webpack-node-externals": "^1.7.2"
+    "express": "^4.16.4"
   }
 }
